@@ -153,7 +153,7 @@ button:hover {
 }
 
 
-input[type="text"],input[type="email"],input[type="telephone"]  {
+input[type="text"],input[type="email"],input[type="tel"]  {
     background-color: #ffffff;
     border-style: solid;
     border-width: 1px;
@@ -175,7 +175,7 @@ input[type="text"],input[type="email"],input[type="telephone"]  {
 
 input[type="text"]:focus,
 input[type="email"]:focus,
-input[type="telephone"]:focus,
+input[type="tel"]:focus,
 select:focus, textarea:focus  {
     border-style: solid;
     border-width: 1px;
