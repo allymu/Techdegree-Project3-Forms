@@ -172,14 +172,6 @@ input[type="text"],input[type="email"],input[type="telephone"]  {
     box-sizing: border-box;
 }
 
-.zip {
-    width: 768px;
-}
-
-#zipcode {
-    width: 30%;
-}
-
 
 input[type="text"]:focus,
 input[type="email"]:focus,
