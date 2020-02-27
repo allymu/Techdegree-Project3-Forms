@@ -98,7 +98,7 @@ header {
     background-color: #f3f2f2;
     width: 100%;
     padding-bottom: 40px;
-    
+    padding-top: 10px;
 }
 
 footer {
@@ -149,7 +149,7 @@ button:hover {
 .hr3 {
     border-color: #333044;
     border-width: 3px;
-    margin: 2px 0 0 0;
+    margin: 2px 0 0px 0;
 }
 
 
